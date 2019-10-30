@@ -1,0 +1,11 @@
+
+Ordre{bestiltePizzaer=[Pizza: 3, Cacciatore, 57.0 kr., ingredienser:tomatsauce, ost, pepperoni, oregano, Pizza: 4, Carbona, 63.0 kr., ingredienser:tomatsauc   e, ost, kødsauce, spaghetti, oregano], prisTotal=120.0}
+Ordrer: 
+Pizza: 1, Vesuvio, 57.0 kr., ingredienser:tomatsauce, ost, skinke, oregano
+Pizza: 2, Amerikaner, 53.0 kr., ingredienser:tomatsauce, ost, oksefars, oregano
+Pizza: 3, Cacciatore, 57.0 kr., ingredienser:tomatsauce, ost, pepperoni, oregano
+
+Ordrer: 
+Pizza: 3, Cacciatore, 57.0 kr., ingredienser:tomatsauce, ost, pepperoni, oregano
+Pizza: 4, Carbona, 63.0 kr., ingredienser:tomatsauc   e, ost, kødsauce, spaghetti, oregano
+
